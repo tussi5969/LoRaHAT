@@ -1,5 +1,6 @@
 # LoRaHATの使い方
 LoRaHATはLoRaモジュールを搭載した、Raspberry Pi ZeroのHATです。これをRaspberry Pi Zeroの上に取り付けることで、Raspberry Pi同士でLoRa通信をすることができます。
+
 ※ Raspberry Pi zero または Raspberry Pi 3とLoRaHATがなければ動作しません
 
 
