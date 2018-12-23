@@ -4,7 +4,6 @@ LoRaHATはLoRaモジュールを搭載した、Raspberry Pi ZeroのHATです。�
 
 ## LoRaとは？
 LPWA(Low Power Wide Area)という。少ない消費電力で広範囲をカバーする無線通信方式の１つです。IoT向けのネットワークに用いられています。
-参考：[LoRa \| 用語集 | KDDI株式会社](http://www.kddi.com/yogo/%E9%80%9A%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/LoRa.html
 
 ## プログラムについて
 プログラムは
