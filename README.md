@@ -3,6 +3,8 @@ LoRaHATはLoRaモジュールを搭載した、Raspberry Pi ZeroのHATです。�
 
 ※ Raspberry Pi zero または Raspberry Pi 3とLoRaHATがなければ動作しません
 
+## LoRaとは？
+LPWA(Low Power Wide Area)という。少ない消費電力で広範囲をカバーする無線通信方式の１つです。IoT向けのネットワークに用いられています。
 
 ## プログラムについて
 プログラムは
